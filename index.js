@@ -21,7 +21,7 @@ const typeDefs = gql`
 `;
 const books = [
     {
-        title: 'my book that does not relates to you',
+        title: 'my  first book',
         author: 'Omid'
     },
     {
@@ -32,11 +32,11 @@ const books = [
 const persons = [
     {
         name: 'Omid Parsa',
-        address: 'Olav M. Troviks vei 60'
+        address: 'Some where'
     },
     {
         name: 'Nina Parsa',
-        address: 'In my heart'
+        address: 'Some where'
     }
 ];
 const subjects = [
